@@ -1,0 +1,35 @@
+{
+  "name": "extended-scafold",
+  "version": "0.0.1",
+  "homepage": "https://github.com/prateekjadhwani/extended-scafold",
+  "authors": [
+    "Prateek Jadhwani"
+  ],
+  "description": "Demo of polymer js element's extend feature along with some other stuff for practice",
+  "main": "extended-scafold.html",
+  "keywords": [
+    "extendedscafold",
+    "scafold",
+    "polymer",
+    "webcomponent"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4",
+    "core-scaffold": "Polymer/core-scaffold#~0.5.4",
+    "core-menu": "Polymer/core-menu#~0.5.4",
+    "paper-item": "Polymer/paper-item#~0.5.4",
+    "core-pages": "Polymer/core-pages#~0.5.4",
+    "paper-input": "Polymer/paper-input#~0.5.4",
+    "paper-button": "Polymer/paper-button#~0.5.4",
+    "paper-spinner": "Polymer/paper-spinner#~0.5.4"
+  }
+}
